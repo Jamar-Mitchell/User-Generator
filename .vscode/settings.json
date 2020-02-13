@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\poi-4.1.1\\poi-4.1.1.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\poi-4.1.1\\poi-ooxml-schemas-4.1.1.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\poi-4.1.1\\poi-ooxml-4.1.1.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\poi-4.1.1\\ooxml-lib\\xmlbeans-3.1.0.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\poi-4.1.1\\ooxml-lib\\curvesapi-1.06.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\math\\commons-math3-3.6.1.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\math\\commons-math3-3.6.1-javadoc.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\math\\commons-math3-3.6.1-sources.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\math\\commons-math3-3.6.1-tests.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\math\\commons-math3-3.6.1-test-sources.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_231\\math\\commons-math3-3.6.1-tools.jar"
+    ]
+}
